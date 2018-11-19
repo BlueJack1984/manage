@@ -6,6 +6,10 @@
     <groupId>com.tianbao</groupId>
     <artifactId>points</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>points-admin</module>
+        <module>points-app</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>points</name>
